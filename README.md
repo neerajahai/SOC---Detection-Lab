@@ -4,5 +4,5 @@ A hands-on SOC detection environment built using Splunk, Ubuntu, and Kali Linux.
 ## 📸 Detection Screenshots
 
 ![SSH Failed Events](screenshots/Splunk_ssh_failed_events.png)
-![SSH Alert](screenshots/Splunk alert1.png)
-![SSH Alert](screenshots/Splunk alert2.png)
+![SSH Alert](screenshots/Splunk_alert1.png)
+![SSH Alert](screenshots/Splunk_alert2.png)
