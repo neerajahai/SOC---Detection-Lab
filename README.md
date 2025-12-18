@@ -1,5 +1,8 @@
  HEAD
 # SOC---Detection-Lab
- origin/master
 A hands-on SOC detection environment built using Splunk, Ubuntu, and Kali Linux. This lab demonstrates log collection, Universal Forwarder setup, Nmap/SSH brute force attack simulations, and creation of SPL detection queries for security monitoring and analysis.
+## 📸 Detection Screenshots
 
+![SSH Failed Events](screenshots/Splunk_ssh_failed_events.png)
+![SSH Alert](screenshots/Splunk alert2.png)
+![SSH Alert](screenshots/Splunk alert1.png)
